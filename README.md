@@ -2,9 +2,10 @@
 ## Self-introduction:
 - I am currently studying in Washington University in St. Louis (WashU): 2024.01-2025.12
 - Double Major: Master of Information Systems Management & Master of Engineering Management
-- Major: Bachelor of Machinery Design, Manufacturing & Automation
-- Zhejiang University of Science & Technology (ZUST): 2019.09-2023.06
 - I will graduate Dec 17th, 2025
+## 
+- Zhejiang University of Science & Technology (ZUST): 2019.09-2023.06
+- Major: Bachelor of Machinery Design, Manufacturing & Automation
 ##
 - Japan animation lover: PM, SAC/Ghost in the Shell, Naruto,...
 - ⚽️ Fan of Manchester United (MU), RVP & Rooney
