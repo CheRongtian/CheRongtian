@@ -1,6 +1,6 @@
 # Hi There 👋
 ## Self-introduction:
-- I am currently studying in Washington University in St. Louis (WashU): 2024.01-2025.12
+- Washington University in St. Louis (WashU): 2024.01-2025.12
 - Double Major: Master of Information Systems Management & Master of Engineering Management
 - I will graduate Dec 17th, 2025
 ## 
