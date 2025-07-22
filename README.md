@@ -28,5 +28,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheRongtian&theme=react" alt="GitHub Activity Graph"/>
 </p>
-
-# TBC...
