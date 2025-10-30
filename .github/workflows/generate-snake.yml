@@ -15,7 +15,13 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: CheRongtian
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake-dark.svg
+          snake_svg_settings: |
+            theme: dark
+            color_snake: '#00FF00'
+            color_dots: '#CCCCCC,#666666,#333333,#111111'  # 四种灰度点，颜色从少到多
+            color_empty: '#000000'  # 背景色
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
