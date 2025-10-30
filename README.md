@@ -10,34 +10,51 @@
 - 📫 cherongtian0702@gmail.com
 
 ## 🧰 Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
-![Minikube](https://img.shields.io/badge/Minikube-326CE5?logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> <!-- cpp -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <!-- python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/> <!-- c -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> <!-- mysql -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/> <!-- sqlite -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/> <!-- r -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/> <!-- matlab -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> <!-- np -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/> <!-- pd -->
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="40"/> <!-- plt -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/> <!-- torch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> <!-- html5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> <!-- css3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> <!-- js -->
+  <img src="https://cdn.simpleicons.org/solidity/363636" height="40"/> <!-- solidity -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/> <!-- bash -->
+</p>
 
-## Current
-### Studying:
-1. computer network
-2. Solidity & Blockchain
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/> <!-- azure -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/> <!-- aws -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> <!-- docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/> <!-- k8s -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/> <!-- terraform -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> <!-- github -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> <!-- git -->
+</p>
+
+<p align="center">
+  <!-- Web / Visualization / Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40"/> <!-- streamlit -->
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/> <!-- powerBI -->
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="40"/> <!-- Tableau -->
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40"/>
+</p>
+
+<p align="center">
+  <!-- IDE / Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/> <!-- vscode -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/> linux --> 
+</p>
+
 
 ## 
   <div align="center">
