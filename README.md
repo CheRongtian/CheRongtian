@@ -41,13 +41,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> <!-- git -->
 </p>
 
-<p align="center">
-  <!-- Web / Visualization / Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40"/> <!-- streamlit -->
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/> <!-- powerBI -->
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="40"/> <!-- Tableau -->
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40"/>
+<!--
+<p align="center"> 
+  // Web / Visualization / Frameworks
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40"/> // streamlit
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/> // powerBI
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="40"/> // Tableau 
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40"/> // Excel
 </p>
+-->
 
 <p align="center">
   <!-- IDE / Tools -->
