@@ -84,9 +84,6 @@
   <img src="https://raw.githubusercontent.com/CheRongtian/CheRongtian/output/snake.svg" alt="Contribution Snake Animation" />
 </p>
 
-<p align="right">
-  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Pixel Animation 1" width="80"/>
-</p>
 
 <table align="center">
   <tr>
