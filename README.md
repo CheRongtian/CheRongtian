@@ -78,3 +78,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheRongtian&theme=react" alt="GitHub Activity Graph"/>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CheRongtian/CheRongtian/output/snake.svg" alt="Contribution Snake Animation" />
+</p>
