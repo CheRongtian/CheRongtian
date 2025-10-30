@@ -1,4 +1,8 @@
 # Hi There 👋
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE4NTcxMDcsIm5iZiI6MTc2MTg1NjgwNywicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDMwVDIwNDAwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiYTE0M2Q4ZGUwYTlkYmMyYWNlMThiNjZkOGMxM2FjOTA4MjVjODgzMTk2ODdlMjkzNzc5NjczYTZiZGJmNjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.krBjCLRtFjcvlnANei7e8aOK6DKmUz29nD4K-PjeSEw" alt="Pixel Animation 1" width="80"/>
+</p>
+
 ## Self-introduction:
 - *Washington University in St. Louis (WashU)*: 2024.01-2025.12
 - *Double Major*: Master of Information Systems Management & Master of Engineering Management
@@ -60,24 +64,19 @@
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/> linux --> 
 </p>
 
-
-## 
-  <div align="center">
-    🔴 <b>Languages I Use Most: </b>
-  </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheRongtian&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-</p>
-
-## 
-  <div align="center">
-    🟢 <b>Recent Activity:</b>
-  </div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheRongtian&theme=react" alt="GitHub Activity Graph"/>
-</p>
+## ☀️ Recent
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Languages I Use Most:</b><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheRongtian&layout=compact&langs_count=8&theme=radical" alt="Top Languages" width="400" height="100"/>
+    </td>
+    <td align="center">
+      <b>Recent Activity:</b><br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheRongtian&theme=react" alt="GitHub Activity Graph" width="400" height="100"/>
+    </td>
+  </tr>
+</table>
 
 ## 🐍 Contribution Snake
 
@@ -85,3 +84,19 @@
   <img src="https://raw.githubusercontent.com/CheRongtian/CheRongtian/output/snake.svg" alt="Contribution Snake Animation" />
 </p>
 
+<p align="right">
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Pixel Animation 1" width="80"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="left">
+      <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Coding">
+    </td>
+    <td align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Running">
+    </td>
+  </tr>
+</table>
+
+#### Gif sources: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#cute-working-stickers-
