@@ -36,9 +36,8 @@
 
 ## Current
 ### Studying:
-1. NLP
-2. Reviewing computer network & Cpp
-3. Rust Basic
+1. computer network
+2. Solidity & Blockchain
 
 ## 
   <div align="center">
