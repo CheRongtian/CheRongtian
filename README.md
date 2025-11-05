@@ -1,8 +1,4 @@
 # Hi There 👋
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE4NTcxMDcsIm5iZiI6MTc2MTg1NjgwNywicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDMwVDIwNDAwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiYTE0M2Q4ZGUwYTlkYmMyYWNlMThiNjZkOGMxM2FjOTA4MjVjODgzMTk2ODdlMjkzNzc5NjczYTZiZGJmNjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.krBjCLRtFjcvlnANei7e8aOK6DKmUz29nD4K-PjeSEw" alt="Pixel Animation 1" width="80"/>
-</p>
-
 ## Self-introduction:
 - *Washington University in St. Louis (WashU)*: 2024.01-2025.12
 - *Double Major*: Master of Information Systems Management & Master of Engineering Management
