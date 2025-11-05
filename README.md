@@ -65,18 +65,9 @@
 </p>
 
 ## ☀️ Recent
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>Languages I Use Most:</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheRongtian&layout=compact&langs_count=8&theme=radical" alt="Top Languages" width="400" height="100"/>
-    </td>
-    <td align="center">
-      <b>Recent Activity:</b><br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheRongtian&theme=react" alt="GitHub Activity Graph" width="400" height="100"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheRongtian&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+</p>
 
 ## 🐍 Contribution Snake
 
