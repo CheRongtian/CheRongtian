@@ -5,7 +5,8 @@ Mein Name ist Rongtian Che und ich komme aus China.
 - Deustch Learner🥶
 - 📫 cherongtian0702@gmail.com
 
-<table>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <div align="center">
