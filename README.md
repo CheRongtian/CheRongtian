@@ -8,7 +8,7 @@ Mein Name ist Rongtian Che und ich komme aus China.
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="70%" valign="top">
       <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
@@ -34,7 +34,7 @@ Mein Name ist Rongtian Che und ich komme aus China.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="30%" valign="top">
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheRongtian&hide=jupyter%20notebook,makefile,cmake&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
       </div>
