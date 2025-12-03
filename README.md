@@ -7,7 +7,7 @@ Mein Name ist Rongtian Che und ich komme aus China.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheRongtian&hide=jupyter%20notebook,makefile,cmake&layout=compact&langs_count=6&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheRongtian&layout=compact&theme=radical&t=test01" height="200"/>
 </p>
 
 
