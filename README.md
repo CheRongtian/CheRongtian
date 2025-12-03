@@ -6,10 +6,6 @@ Mein Name ist Rongtian Che und ich komme aus China.
 - 📫 cherongtian0702@gmail.com
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheRongtian&layout=compact&theme=radical&t=test01" height="200"/>
-</p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CheRongtian/CheRongtian/output/snake.svg" alt="Contribution Snake Animation" />
