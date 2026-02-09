@@ -2,8 +2,8 @@
 Mein Name ist Rongtian Che und ich komme aus China.
 - WashU: MISM + MEM(2024.01-2025.12) && ZUST: B.Eng. in ME(2019.09-2023.06)
 - Japan Anime Lover(Pokémon, Ghost in the Shell, EVA......); Strange Idea Generator; Full of Curiosity about Everything; Fan of Manchester United
-- Deutsch Learner🥶 + want to learn Blockchain-related things
-- 📫 cherongtian0702@gmail.com
+- Deutsch Learner🥶
+- 📫 cherongtian0702@gmail.com | cherongtian0702@sina.com
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheRongtian&hide=jupyter%20notebook,makefile,cmake&layout=compact&langs_count=10&theme=radical" height="200"/>
