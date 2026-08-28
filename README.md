@@ -6,7 +6,7 @@ Mein Name ist Rongtian Che und ich komme aus China.
 - 📫 cherongtian0702@gmail.com | cherongtian0702@sina.com
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheRongtian&hide=jupyter%20notebook,makefile,cmake&layout=compact&langs_count=10&theme=radical" height="200"/>
+  <img src="./language.svg" width="720">
 </p>
 
 <p align="center">

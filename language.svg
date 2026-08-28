@@ -1,0 +1,399 @@
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="720"
+        height="482"
+        viewBox="0 0 720 482"
+    >
+
+    <style>
+        .title {
+            font: 600 18px monospace;
+            fill: #c9d1d9;
+        }
+
+        .subtitle {
+            font: 13px monospace;
+            fill: #8b949e;
+        }
+
+        .language {
+            font: 14px monospace;
+            fill: #c9d1d9;
+        }
+
+        .percent {
+            font: 14px monospace;
+            fill: #8b949e;
+        }
+    </style>
+
+    <rect
+        x="1"
+        y="1"
+        width="718"
+        height="480"
+        rx="12"
+        fill="#0d1117"
+        stroke="#30363d"
+    />
+
+    <text
+        x="28"
+        y="34"
+        class="title"
+    >
+        rongtian.che — language usage
+    </text>
+
+    <text
+        x="28"
+        y="54"
+        class="subtitle"
+    >
+        public repositories / generated from GitHub API
+    </text>
+
+    
+            <text
+                x="28"
+                y="72"
+                class="language"
+            >
+                C++
+            </text>
+
+            <rect
+                x="180"
+                y="62"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="62"
+                width="112.7"
+                height="10"
+                rx="5"
+                fill="#f34b7d"
+            />
+
+            <text
+                x="565"
+                y="72"
+                class="percent"
+            >
+                31.30%
+            </text>
+            
+            <text
+                x="28"
+                y="110"
+                class="language"
+            >
+                Python
+            </text>
+
+            <rect
+                x="180"
+                y="100"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="100"
+                width="105.8"
+                height="10"
+                rx="5"
+                fill="#3572A5"
+            />
+
+            <text
+                x="565"
+                y="110"
+                class="percent"
+            >
+                29.40%
+            </text>
+            
+            <text
+                x="28"
+                y="148"
+                class="language"
+            >
+                JavaScript
+            </text>
+
+            <rect
+                x="180"
+                y="138"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="138"
+                width="51.4"
+                height="10"
+                rx="5"
+                fill="#f1e05a"
+            />
+
+            <text
+                x="565"
+                y="148"
+                class="percent"
+            >
+                14.27%
+            </text>
+            
+            <text
+                x="28"
+                y="186"
+                class="language"
+            >
+                C
+            </text>
+
+            <rect
+                x="180"
+                y="176"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="176"
+                width="33.1"
+                height="10"
+                rx="5"
+                fill="#555555"
+            />
+
+            <text
+                x="565"
+                y="186"
+                class="percent"
+            >
+                 9.19%
+            </text>
+            
+            <text
+                x="28"
+                y="224"
+                class="language"
+            >
+                Swift
+            </text>
+
+            <rect
+                x="180"
+                y="214"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="214"
+                width="19.2"
+                height="10"
+                rx="5"
+                fill="#8b949e"
+            />
+
+            <text
+                x="565"
+                y="224"
+                class="percent"
+            >
+                 5.32%
+            </text>
+            
+            <text
+                x="28"
+                y="262"
+                class="language"
+            >
+                Vue
+            </text>
+
+            <rect
+                x="180"
+                y="252"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="252"
+                width="12.2"
+                height="10"
+                rx="5"
+                fill="#8b949e"
+            />
+
+            <text
+                x="565"
+                y="262"
+                class="percent"
+            >
+                 3.40%
+            </text>
+            
+            <text
+                x="28"
+                y="300"
+                class="language"
+            >
+                TypeScript
+            </text>
+
+            <rect
+                x="180"
+                y="290"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="290"
+                width="11.5"
+                height="10"
+                rx="5"
+                fill="#3178c6"
+            />
+
+            <text
+                x="565"
+                y="300"
+                class="percent"
+            >
+                 3.18%
+            </text>
+            
+            <text
+                x="28"
+                y="338"
+                class="language"
+            >
+                Shell
+            </text>
+
+            <rect
+                x="180"
+                y="328"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="328"
+                width="5.4"
+                height="10"
+                rx="5"
+                fill="#89e051"
+            />
+
+            <text
+                x="565"
+                y="338"
+                class="percent"
+            >
+                 1.50%
+            </text>
+            
+            <text
+                x="28"
+                y="376"
+                class="language"
+            >
+                Solidity
+            </text>
+
+            <rect
+                x="180"
+                y="366"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="366"
+                width="3.1"
+                height="10"
+                rx="5"
+                fill="#8b949e"
+            />
+
+            <text
+                x="565"
+                y="376"
+                class="percent"
+            >
+                 0.85%
+            </text>
+            
+            <text
+                x="28"
+                y="414"
+                class="language"
+            >
+                Assembly
+            </text>
+
+            <rect
+                x="180"
+                y="404"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="404"
+                width="2.9"
+                height="10"
+                rx="5"
+                fill="#8b949e"
+            />
+
+            <text
+                x="565"
+                y="414"
+                class="percent"
+            >
+                 0.81%
+            </text>
+            
+
+    </svg>
+    
