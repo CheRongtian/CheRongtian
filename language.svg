@@ -59,7 +59,7 @@
                 y="72"
                 class="language"
             >
-                C++
+                Solidity
             </text>
 
             <rect
@@ -74,10 +74,10 @@
             <rect
                 x="180"
                 y="62"
-                width="109.1"
+                width="107.9"
                 height="10"
                 rx="5"
-                fill="#f34b7d"
+                fill="#8b949e"
             />
 
             <text
@@ -85,12 +85,46 @@
                 y="72"
                 class="percent"
             >
-                30.30%
+                29.97%
             </text>
             
             <text
                 x="28"
                 y="110"
+                class="language"
+            >
+                C++
+            </text>
+
+            <rect
+                x="180"
+                y="100"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="100"
+                width="77.4"
+                height="10"
+                rx="5"
+                fill="#f34b7d"
+            />
+
+            <text
+                x="565"
+                y="110"
+                class="percent"
+            >
+                21.50%
+            </text>
+            
+            <text
+                x="28"
+                y="148"
                 class="language"
             >
                 Python
@@ -98,7 +132,7 @@
 
             <rect
                 x="180"
-                y="100"
+                y="138"
                 width="360"
                 height="10"
                 rx="5"
@@ -107,8 +141,8 @@
 
             <rect
                 x="180"
-                y="100"
-                width="99.0"
+                y="138"
+                width="70.1"
                 height="10"
                 rx="5"
                 fill="#3572A5"
@@ -116,15 +150,15 @@
 
             <text
                 x="565"
-                y="110"
+                y="148"
                 class="percent"
             >
-                27.51%
+                19.47%
             </text>
             
             <text
                 x="28"
-                y="148"
+                y="186"
                 class="language"
             >
                 JavaScript
@@ -132,7 +166,7 @@
 
             <rect
                 x="180"
-                y="138"
+                y="176"
                 width="360"
                 height="10"
                 rx="5"
@@ -141,8 +175,8 @@
 
             <rect
                 x="180"
-                y="138"
-                width="47.8"
+                y="176"
+                width="32.6"
                 height="10"
                 rx="5"
                 fill="#f1e05a"
@@ -150,15 +184,15 @@
 
             <text
                 x="565"
-                y="148"
+                y="186"
                 class="percent"
             >
-                13.29%
+                 9.04%
             </text>
             
             <text
                 x="28"
-                y="186"
+                y="224"
                 class="language"
             >
                 Swift
@@ -166,7 +200,7 @@
 
             <rect
                 x="180"
-                y="176"
+                y="214"
                 width="360"
                 height="10"
                 rx="5"
@@ -175,8 +209,8 @@
 
             <rect
                 x="180"
-                y="176"
-                width="36.2"
+                y="214"
+                width="27.4"
                 height="10"
                 rx="5"
                 fill="#8b949e"
@@ -184,15 +218,15 @@
 
             <text
                 x="565"
-                y="186"
+                y="224"
                 class="percent"
             >
-                10.04%
+                 7.61%
             </text>
             
             <text
                 x="28"
-                y="224"
+                y="262"
                 class="language"
             >
                 C
@@ -200,7 +234,7 @@
 
             <rect
                 x="180"
-                y="214"
+                y="252"
                 width="360"
                 height="10"
                 rx="5"
@@ -209,8 +243,8 @@
 
             <rect
                 x="180"
-                y="214"
-                width="29.9"
+                y="252"
+                width="20.3"
                 height="10"
                 rx="5"
                 fill="#555555"
@@ -218,15 +252,15 @@
 
             <text
                 x="565"
-                y="224"
+                y="262"
                 class="percent"
             >
-                 8.31%
+                 5.65%
             </text>
             
             <text
                 x="28"
-                y="262"
+                y="300"
                 class="language"
             >
                 Vue
@@ -234,7 +268,7 @@
 
             <rect
                 x="180"
-                y="252"
+                y="290"
                 width="360"
                 height="10"
                 rx="5"
@@ -243,8 +277,8 @@
 
             <rect
                 x="180"
-                y="252"
-                width="11.1"
+                y="290"
+                width="7.5"
                 height="10"
                 rx="5"
                 fill="#8b949e"
@@ -252,15 +286,15 @@
 
             <text
                 x="565"
-                y="262"
+                y="300"
                 class="percent"
             >
-                 3.07%
+                 2.09%
             </text>
             
             <text
                 x="28"
-                y="300"
+                y="338"
                 class="language"
             >
                 TypeScript
@@ -268,7 +302,7 @@
 
             <rect
                 x="180"
-                y="290"
+                y="328"
                 width="360"
                 height="10"
                 rx="5"
@@ -277,8 +311,8 @@
 
             <rect
                 x="180"
-                y="290"
-                width="10.4"
+                y="328"
+                width="7.0"
                 height="10"
                 rx="5"
                 fill="#3178c6"
@@ -286,15 +320,15 @@
 
             <text
                 x="565"
-                y="300"
+                y="338"
                 class="percent"
             >
-                 2.88%
+                 1.96%
             </text>
             
             <text
                 x="28"
-                y="338"
+                y="376"
                 class="language"
             >
                 Shell
@@ -302,7 +336,7 @@
 
             <rect
                 x="180"
-                y="328"
+                y="366"
                 width="360"
                 height="10"
                 rx="5"
@@ -311,8 +345,8 @@
 
             <rect
                 x="180"
-                y="328"
-                width="5.5"
+                y="366"
+                width="3.7"
                 height="10"
                 rx="5"
                 fill="#89e051"
@@ -320,15 +354,15 @@
 
             <text
                 x="565"
-                y="338"
+                y="376"
                 class="percent"
             >
-                 1.53%
+                 1.04%
             </text>
             
             <text
                 x="28"
-                y="376"
+                y="414"
                 class="language"
             >
                 Objective-C++
@@ -336,40 +370,6 @@
 
             <rect
                 x="180"
-                y="366"
-                width="360"
-                height="10"
-                rx="5"
-                fill="#21262d"
-            />
-
-            <rect
-                x="180"
-                y="366"
-                width="2.8"
-                height="10"
-                rx="5"
-                fill="#8b949e"
-            />
-
-            <text
-                x="565"
-                y="376"
-                class="percent"
-            >
-                 0.79%
-            </text>
-            
-            <text
-                x="28"
-                y="414"
-                class="language"
-            >
-                Solidity
-            </text>
-
-            <rect
-                x="180"
                 y="404"
                 width="360"
                 height="10"
@@ -380,7 +380,7 @@
             <rect
                 x="180"
                 y="404"
-                width="2.8"
+                width="2.3"
                 height="10"
                 rx="5"
                 fill="#8b949e"
@@ -391,7 +391,7 @@
                 y="414"
                 class="percent"
             >
-                 0.77%
+                 0.64%
             </text>
             
 
