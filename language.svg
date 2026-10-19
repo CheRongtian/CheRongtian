@@ -74,7 +74,7 @@
             <rect
                 x="180"
                 y="62"
-                width="98.2"
+                width="97.2"
                 height="10"
                 rx="5"
                 fill="#8b949e"
@@ -85,46 +85,12 @@
                 y="72"
                 class="percent"
             >
-                27.27%
+                26.99%
             </text>
             
             <text
                 x="28"
                 y="110"
-                class="language"
-            >
-                C++
-            </text>
-
-            <rect
-                x="180"
-                y="100"
-                width="360"
-                height="10"
-                rx="5"
-                fill="#21262d"
-            />
-
-            <rect
-                x="180"
-                y="100"
-                width="71.4"
-                height="10"
-                rx="5"
-                fill="#f34b7d"
-            />
-
-            <text
-                x="565"
-                y="110"
-                class="percent"
-            >
-                19.85%
-            </text>
-            
-            <text
-                x="28"
-                y="148"
                 class="language"
             >
                 JavaScript
@@ -132,6 +98,40 @@
 
             <rect
                 x="180"
+                y="100"
+                width="360"
+                height="10"
+                rx="5"
+                fill="#21262d"
+            />
+
+            <rect
+                x="180"
+                y="100"
+                width="74.1"
+                height="10"
+                rx="5"
+                fill="#f1e05a"
+            />
+
+            <text
+                x="565"
+                y="110"
+                class="percent"
+            >
+                20.59%
+            </text>
+            
+            <text
+                x="28"
+                y="148"
+                class="language"
+            >
+                C++
+            </text>
+
+            <rect
+                x="180"
                 y="138"
                 width="360"
                 height="10"
@@ -142,10 +142,10 @@
             <rect
                 x="180"
                 y="138"
-                width="71.2"
+                width="70.7"
                 height="10"
                 rx="5"
-                fill="#f1e05a"
+                fill="#f34b7d"
             />
 
             <text
@@ -153,7 +153,7 @@
                 y="148"
                 class="percent"
             >
-                19.77%
+                19.64%
             </text>
             
             <text
@@ -176,7 +176,7 @@
             <rect
                 x="180"
                 y="176"
-                width="36.8"
+                width="36.5"
                 height="10"
                 rx="5"
                 fill="#3572A5"
@@ -187,7 +187,7 @@
                 y="186"
                 class="percent"
             >
-                10.24%
+                10.13%
             </text>
             
             <text
@@ -210,7 +210,7 @@
             <rect
                 x="180"
                 y="214"
-                width="23.2"
+                width="22.9"
                 height="10"
                 rx="5"
                 fill="#8b949e"
@@ -221,7 +221,7 @@
                 y="224"
                 class="percent"
             >
-                 6.43%
+                 6.37%
             </text>
             
             <text
@@ -244,7 +244,7 @@
             <rect
                 x="180"
                 y="252"
-                width="23.1"
+                width="22.9"
                 height="10"
                 rx="5"
                 fill="#555555"
@@ -255,7 +255,7 @@
                 y="262"
                 class="percent"
             >
-                 6.42%
+                 6.35%
             </text>
             
             <text
@@ -278,7 +278,7 @@
             <rect
                 x="180"
                 y="290"
-                width="11.3"
+                width="11.2"
                 height="10"
                 rx="5"
                 fill="#89e051"
@@ -289,7 +289,7 @@
                 y="300"
                 class="percent"
             >
-                 3.13%
+                 3.10%
             </text>
             
             <text
@@ -312,7 +312,7 @@
             <rect
                 x="180"
                 y="328"
-                width="6.9"
+                width="6.8"
                 height="10"
                 rx="5"
                 fill="#8b949e"
@@ -323,7 +323,7 @@
                 y="338"
                 class="percent"
             >
-                 1.91%
+                 1.89%
             </text>
             
             <text
@@ -346,7 +346,7 @@
             <rect
                 x="180"
                 y="366"
-                width="6.4"
+                width="6.3"
                 height="10"
                 rx="5"
                 fill="#8b949e"
@@ -357,7 +357,7 @@
                 y="376"
                 class="percent"
             >
-                 1.77%
+                 1.75%
             </text>
             
             <text
@@ -391,7 +391,7 @@
                 y="414"
                 class="percent"
             >
-                 1.53%
+                 1.52%
             </text>
             
 
